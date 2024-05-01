@@ -16,7 +16,7 @@ I'm a developer with a passion for creating innovative and functional solutions.
 - **Markup Languages:** Markdown, HTML
 - **Styling Languages:** CSS
 - **Technologies:** WordPress, Figma
-- **Tools:** VS Code
+- **Tools:** VS Code, GITHUB
 
 
 ## 🚀 Contact
