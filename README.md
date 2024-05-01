@@ -1,5 +1,5 @@
 
-# ✨ About Me ✨
+# ✨ **About Me** ✨
 
 Hi! 👋 My name is Leticia Veiga Cena da Silva, and I'm a technology enthusiast focused on web development.
 
@@ -12,9 +12,9 @@ I'm a developer with a passion for creating innovative and functional solutions.
 
 ## 🤖 Skills
 
-- Programming Languages:** C, C++, JavaScript, SQL, GIT
-- Markup Languages:** Markdown, HTML
-- Styling Languages:** CSS
+- **Programming Languages:** C, C++, JavaScript, SQL, GIT
+- **Markup Languages:** Markdown, HTML
+- **Styling Languages:** CSS
 - **Technologies:** WordPress, Figma
 - **Tools:** VS Code
 
