@@ -3,7 +3,7 @@
 
 Hi! 👋 My name is Leticia Veiga Cena da Silva, and I'm a technology enthusiast focused on web development.
 
-## 📒 About Me
+## 📒 Interests
 
 I'm a developer with a passion for creating innovative and functional solutions. I am constantly looking to learn and improve my skills in the field of web programming.
 
