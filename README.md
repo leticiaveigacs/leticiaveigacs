@@ -1,35 +1,35 @@
 
-# ✨ Sobre Mim ✨
+# ✨ About Me ✨
 
-Olá! 👋 Meu nome é Leticia Veiga Cena da Silva, e sou uma entusiasta da tecnologia focada no desenvolvimento web.
+Hi! 👋 My name is Leticia Veiga Cena da Silva, and I'm a technology enthusiast focused on web development.
 
-## 📒 Sobre Mim
+## 📒 About Me
 
-Sou uma desenvolvedora apaixonada por criar soluções inovadoras e funcionais. Estou constantemente buscando aprender e aprimorar minhas habilidades no campo da programação web.
+I'm a developer with a passion for creating innovative and functional solutions. I am constantly looking to learn and improve my skills in the field of web programming.
 
-- 🌱 Atualmente, estou dedicando meu tempo ao estudo aprofundado de Programação Web.
-- 💼 Trabalho como desenvolvedora freelancer, colaborando com diversos projetos interessantes.
+- 🌱 I am currently dedicating my time to the in-depth study of Web Programming.
+- 💼 I work as a freelance developer, collaborating on various interesting projects.
 
-## 🤖 Habilidades
+## 🤖 Skills
 
-- **Linguagens de Programação:** C, C++, JavaScript, SQL, GIT
-- **Linguagens de Marcação:** Markdown, HTML
-- **Linguagens de Estilização:** CSS
-- **Tecnologias:** WordPress, Figma
-- **Ferramentas:** VS Code
+- Programming Languages:** C, C++, JavaScript, SQL, GIT
+- Markup Languages:** Markdown, HTML
+- Styling Languages:** CSS
+- **Technologies:** WordPress, Figma
+- **Tools:** VS Code
 
 
-## 🚀 Contato
+## 🚀 Contact
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-veiga-cena-da-silva/) e [DIO](https://www.dio.me/users/leticiaveigacs). Estou sempre aberto para novas conexões e discussões sobre tecnologia!
+You can find me on [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-veiga-cena-da-silva/) and [DIO](https://www.dio.me/users/leticiaveigacs). I'm always open to new connections and discussions about technology!
 
-## 🧐 Contribuições
+## 🧐 Contributions
 
-Contribuições e sugestões são sempre bem-vindas! Se você tem alguma ideia ou sugestão para melhorar meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contributions and suggestions are always welcome! If you have any ideas or suggestions for improving my projects, feel free to open an issue or send a pull request.
 
-## 😊 Agradecimentos
+## 😊 Thanks
 
-Obrigado por visitar meu perfil! Espero que você encontre algo interessante por aqui! 
+Thank you for visiting my profile! I hope you find something interesting here! 
 
 <!---
 leticiaveigacs/leticiaveigacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
