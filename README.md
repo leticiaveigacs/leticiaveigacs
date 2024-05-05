@@ -1,13 +1,12 @@
 
 # ✨ **About Me** ✨
 
-Hi! 👋 My name is Leticia Veiga Cena da Silva, and I'm a technology enthusiast focused on web development.
+Hi! My name is Leticia Veiga Cena da Silva, and I'm a technology enthusiast focused on web development.
 
 ## 📒 Interests
 
 I'm a developer with a passion for creating innovative and functional solutions. I am constantly looking to learn and improve my skills in the field of web programming.
 
-- 🌱 I am currently dedicating my time to the in-depth study of Web Programming.
 - 💼 I work as a freelance developer, collaborating on various interesting projects.
 
 ## 🤖 Skills
@@ -35,9 +34,6 @@ I'm a developer with a passion for creating innovative and functional solutions.
   <a href="https://www.linkedin.com/in/let%C3%ADcia-veiga-cena-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
-
 
 ## 😊 Thanks
 
