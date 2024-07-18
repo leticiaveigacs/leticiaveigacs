@@ -30,7 +30,7 @@ I'm a developer with a passion for creating innovative and functional solutions.
    
      
           
-   
+    
     
 
 </div>
