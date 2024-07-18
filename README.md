@@ -66,12 +66,6 @@ I'm a developer with a passion for creating innovative and functional solutions.
 
 
   
-</div>
-
-## 😊 Thanks
-
-Thank you for visiting my profile! I hope you find something interesting here! 
-
 
 
 <!---
