@@ -40,8 +40,8 @@ I'm a developer with a passion for creating innovative and functional solutions.
 <!---- **Programming Languages:** C, C++, JavaScript, SQL, GIT
 - **Markup Languages:** Markdown, HTML 
 - **Styling Languages:** CSS --->
-- **Technologies:** WordPress, Figma
-- **Tools:** VS Code, GITHUB, Visual Studio
+- **Technologies:** PHP, SQL SERVER, MY SQL
+- **Tools:** GITHUB, WordPress, Figma
   
 
 
@@ -65,7 +65,12 @@ I'm a developer with a passion for creating innovative and functional solutions.
 </picture>
 
 
-  
+  </div>
+
+## 😊 Thanks
+
+Thank you for visiting my profile! I hope you find something interesting here! 
+
 
 
 <!---
