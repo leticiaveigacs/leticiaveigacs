@@ -27,7 +27,15 @@ I'm a developer with a passion for creating innovative and functional solutions.
    <img align="center" alt="Le-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
    <img align="center" alt="Le-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" >
 
-   
+
+
+
+
+
+
+
+
+
      
           
     
