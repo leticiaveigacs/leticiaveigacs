@@ -17,9 +17,9 @@ I'm a developer with a passion for creating innovative and functional solutions.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaveigacs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+     <img align="center" alt="Le-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
-  <img align="center" alt="Le-Js" height="30" width="40" src="href= https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" >
+  <img align="center" alt="Le-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
   <img align="center" alt="Le-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Le-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Le-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
@@ -27,11 +27,10 @@ I'm a developer with a passion for creating innovative and functional solutions.
    <img align="center" alt="Le-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
    <img align="center" alt="Le-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Le-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-   <img align="center" alt="Le-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" >
-           
+   <img align="center" alt="Le-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" >           
 
 
-     
+   
           
     
     
