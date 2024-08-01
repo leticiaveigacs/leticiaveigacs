@@ -42,9 +42,9 @@ I'm a developer with a passion for creating innovative and functional solutions.
 <!---- **Programming Languages:** C, C++, JavaScript, SQL, GIT
 - **Markup Languages:** Markdown, HTML 
 - **Styling Languages:** CSS --->
-- **Technologies:** REACT, PHP, SQL SERVER, SQL
+- **Technologies:** REACT, PHP, 
 - **Tools:** GITHUB, WordPress, Figma
-- **Data Bases:** MY SQL, MY SQL SERVER
+- **Data Bases:** MY SQL, SQL SERVER
   
 
 
