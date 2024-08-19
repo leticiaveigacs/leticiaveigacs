@@ -88,7 +88,7 @@ I'm a developer with a passion for creating innovative and functional solutions.
    </br>
    
    
-   🧠 **Libraries and Others**
+   🧠 **Libraries and Technologies**
    <div>
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="20px" />
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" height="20px" />
