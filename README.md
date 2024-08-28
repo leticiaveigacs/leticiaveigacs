@@ -50,7 +50,7 @@ I'm a developer with a passion for creating innovative and functional solutions.
     
    </br>
      
-   ✅ **Main languages**  
+   ✅ **Languages**  
      <div>
    
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
